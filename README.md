@@ -1,1 +1,2 @@
-# Power-BI_Dashboard_Sales
+# Power-BI_Dashboard_Project
+This is a Power BI end-to-end project.
